@@ -24,3 +24,39 @@ justify-content: center;
   
 }
 
+.container{
+    display:flex;
+    justify-content:center;
+}
+
+h2 {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 300;
+font-size: 42px;
+text-align: center;
+color: white;
+
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+h6{
+    display: flex;
+    justify-content: right;
+    color: gray;
+    font-size: 21px;
+}
+
